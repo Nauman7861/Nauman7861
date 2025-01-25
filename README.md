@@ -5,7 +5,7 @@ I am Nauman PATEL
 # 💫 About Me:
 🔭 I’m currently working on DevOps and Robotics Engineering <br>  
 💬 Ask me about IOT, Frontend Development <br>
-📫 Reach me at naumanpatel13@gmail.com <br> 
+📫 Reach me at naumanpatel132003@gmail.com <br> 
 
 ## 🌐 Socials:
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nauman7861) 
