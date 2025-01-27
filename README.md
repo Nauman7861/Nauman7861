@@ -20,5 +20,4 @@ I am Nauman PATEL
  
 # 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nauman7861&layout=compact&theme=highcontrast)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nauman7861&theme=highcontrast&border_radius=5&card_width=505)](https://git.io/streak-stats)<br/>
 
